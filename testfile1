@@ -1,3 +1,8 @@
 This is me adding comments to my 
 second file.
 Hope this is ok.
+a = 2+3
+b = 6 + 4
+c = a+b
+print(c)
+
